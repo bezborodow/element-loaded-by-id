@@ -1,0 +1,29 @@
+{
+  "name": "element-loaded-by-id",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Promise for when an element matching an ID is loaded into the DOM.",
+  "main": "index.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bezborodow/element-loaded-by-id.git"
+  },
+  "keywords": [
+    "promise",
+    "mutationobserver"
+  ],
+  "author": "Damien Bezborodov",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bezborodow/element-loaded-by-id/issues"
+  },
+  "homepage": "https://github.com/bezborodow/element-loaded-by-id#readme",
+  "files": [
+      "index.js"
+  ]
+}
