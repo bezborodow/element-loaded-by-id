@@ -1,7 +1,7 @@
 {
   "name": "element-loaded-by-id",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Promise for when an element matching an ID is loaded into the DOM.",
   "main": "index.js",
   "directories": {

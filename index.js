@@ -24,6 +24,10 @@ export default function elementLoadedById(id) {
       return;
     }
 
-    observer.observe(document, { subtree: true, childList: true });
+    observer.observe(document, {
+      subtree: true,
+      childList: true,
+      attributeFilter: ['id'],
+    });
   });
 }
