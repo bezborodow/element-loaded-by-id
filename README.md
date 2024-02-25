@@ -7,6 +7,8 @@ is loaded into the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Docume
 ## Synopsis
 
 ```javascript
+import elementLoadedById from 'element-loaded-by-id';
+
 elementLoadedById(id)
     .then((element) => {
         // ...
