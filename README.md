@@ -1,6 +1,8 @@
 # `elementLoadedById()`
 
-Detect when an [element](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
+**[`elementLoadedById()`](https://www.npmjs.com/package/element-loaded-by-id)**:
+
+>  Detect when an [element](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
 matching an [ID](https://developer.mozilla.org/en-US/docs/Web/API/Element/id)
 is loaded into the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model).
 
@@ -15,12 +17,19 @@ elementLoadedById(id)
     });
 ```
 
+### Installation
+
+```console
+npm i element-loaded-by-id
+```
+
+
 ## Example
 
 See [example](https://bezborodow.github.io/element-loaded-by-id/examples/loaded.html).
 
 ## Syntax
-```
+```javascript
 elementLoadedById(id)
 ```
 
