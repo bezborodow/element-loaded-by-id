@@ -13,6 +13,10 @@ elementLoadedById(id)
     });
 ```
 
+## Example
+
+See [example](https://bezborodow.github.io/element-loaded-by-id/examples/loaded.html).
+
 ## Syntax
 ```
 elementLoadedById(id)
