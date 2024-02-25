@@ -11,10 +11,9 @@ is loaded into the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Docume
 ```javascript
 import elementLoadedById from 'element-loaded-by-id';
 
-elementLoadedById(id)
-    .then(element => {
-        // ...
-    });
+elementLoadedById(id).then(element => {
+    // Do something...
+});
 ```
 
 ### Installation
