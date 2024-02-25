@@ -12,7 +12,7 @@ is loaded into the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Docume
 import elementLoadedById from 'element-loaded-by-id';
 
 elementLoadedById(id)
-    .then((element) => {
+    .then(element => {
         // ...
     });
 ```
